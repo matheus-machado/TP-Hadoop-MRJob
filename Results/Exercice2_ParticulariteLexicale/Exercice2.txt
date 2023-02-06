@@ -1,0 +1,6 @@
+"y"	[8, "symphysy"]
+"a"	[13, "landsmanshaft"]
+"i"	[13, "whipstitching"]
+"o"	[13, "loxolophodont"]
+"u"	[10, "untruthful"]
+"e"	[16, "strengthlessness"]

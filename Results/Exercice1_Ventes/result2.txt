@@ -1,0 +1,7 @@
+"Vintage Cars"	21069
+"Classic Cars"	33992
+"Planes"	10727
+"Ships"	8127
+"Trains"	2712
+"Trucks and Buses"	10777
+"Motorcycles"	11663
